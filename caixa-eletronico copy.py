@@ -12,7 +12,7 @@ def menu():
 
         ''')
 
-        opcao = int(input("Digite a opção desejada: "))
+        opcao = int(input("Digite o número da opção desejada: "))
         return opcao
 
 def consultar_saldo(sld):
